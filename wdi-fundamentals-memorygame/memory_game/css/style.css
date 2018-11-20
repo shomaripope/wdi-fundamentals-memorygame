@@ -1,0 +1,100 @@
+body {
+text-align: center;
+margin: 0;
+font-family: 'Open Sans', sans serif;
+}
+h1 {
+font-family: 'ariel';
+color: #0D2c40;
+letter-spacing: 1px;
+font-weight: 800px;
+font-size: 45px;
+background: lightblue;
+margin: 0;
+}
+
+.instructionsGame {
+font-family: 'ariel';
+color: #F15B31;
+letter-spacing: 1px;
+font-weight: 600px;
+font-size: 18px;
+background: lightblue;
+margin: 0;
+}
+
+h2 {
+font-family: raleway;
+color: #0D2c40;
+letter-spacing: 1px;
+font-weight: 800px;
+font-size: 20px;
+}
+
+.paragraph {
+font font-family: "droid serif";
+line-height: 26px;
+font-size: 18px;
+padding: 20px 0px 20px 0px;
+margin: 0;
+}
+
+header {
+	background-color: #f15b31;
+	color: #ffffff;
+	padding: 30px 20px 30px 20px;
+}
+
+nav {
+	background-color: #00a6b3;
+	color: #ffffff;
+	padding: 20px 0px 20px 0px;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+img {
+	margin: 40px 8px 8px;
+}
+
+footer {
+	padding: 20px;
+	background: #0d2c40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+.copyright {
+	float: left;
+}
+
+.message {
+	float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name {
+	color: #f15b31;
+	font-weight: 700;
+}
+
+a {
+	border-bottom: 2px solid transparent;
+}
+
+a:hover {
+background: green;
+}
